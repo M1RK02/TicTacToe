@@ -1,4 +1,4 @@
-# <img src="img/TicTacToe.png" width="50px"> CiscoAutoMeetings
+# <img src="img/TicTacToe.png" width="50px"> TicTacToe
 
 <p align="center">
     <img src="img/TicTacToe.gif" width="500px">
