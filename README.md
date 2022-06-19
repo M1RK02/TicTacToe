@@ -14,7 +14,7 @@ To run this script you will need this Python modules:
 
 ## Contact
 
-If you have contributions, need support, have suggestions, or just want to get in touch with the me, join my [Discord server](https://discord.gg/XtkJEFU)!
+If you have contributions, need support, have suggestions, or just want to get in touch with the me, join my [Discord server](https://discord.gg/Q9wPYcKtKy)!
 
 ## License
 
