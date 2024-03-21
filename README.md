@@ -14,10 +14,9 @@ To run this script you will need this Python modules:
 
 ## Contact
 
-If you have contributions, need support, have suggestions, or just want to get in touch with the me, join my [Discord server](https://discord.gg/Q9wPYcKtKy)!
+If you have contributions, need support, have suggestions, or just want to get in touch with the me, send me an [email](mailto:picamirko02@gmail.com)!
 
 ## License
 
 This software is licensed under the terms of the MIT license.
 See [LICENSE](LICENSE) for more details.
- 
